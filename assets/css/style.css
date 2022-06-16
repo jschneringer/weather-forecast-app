@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family:'Courier New', Courier, monospace
+}
+#title {
+    text-align: center;
+    font-size: xx-large;
+    background-color: white;
+}
+.input{
+    text-align: center;
+}
+input[type="text"]{
+    height: 50px;
+    width:600px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+    background-color: white;
+    color: black;
+}
