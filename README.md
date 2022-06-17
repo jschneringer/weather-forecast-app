@@ -7,7 +7,7 @@ https://jschneringer.github.io/weather-forecast-app/
 https://github.com/jschneringer/weather-forecast-app
 
 Screenshot
-
+https://github.com/jschneringer/weather-forecast-app/issues/1#issue-1274546810
 
 
 Technologies Used
