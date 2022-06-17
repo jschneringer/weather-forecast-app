@@ -4,6 +4,10 @@ The objective of this app is to adequately display different weather inputs base
 
 Links
 https://jschneringer.github.io/weather-forecast-app/
+https://github.com/jschneringer/weather-forecast-app
+
+Screenshot
+
 
 
 Technologies Used
